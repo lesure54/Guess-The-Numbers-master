@@ -13,4 +13,4 @@ Un jeu amusant où le joueur essaie de deviner le nombre choisi par l'ordinateur
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/affanidhh/Guess-The-Numbers.git
+   git clone https://github.com/lesure54/Guess-The-Numbers-master
